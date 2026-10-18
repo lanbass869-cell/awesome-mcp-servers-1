@@ -54,6 +54,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - ☁️ - [Cloud Storage](#cloud-storage)
 - 🗒️ - [Document Processing](#document-processing)
 - 🗄️ - [Databases](#databases)
+- [MemTether](https://github.com/MemTether/MemTether) - [MemTether](https://github.com/MemTether/MemTether) 🐍 🏎️ ☁️ 🍎 🪟 🐧 - Cross-client AI memory hub with bi-temporal governance, supersession chains, hash-chain audit, and 9 MCP tools. Local-first, zero cloud.
 - 💬 - [Communication](#communication)
 - 📈 - [Monitoring](#monitoring)
 - 🔍 - [Search & Web](#search-web)
